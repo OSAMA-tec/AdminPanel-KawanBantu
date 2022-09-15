@@ -20,7 +20,6 @@ const Employees = () => {
               >
                 {item.icon}
               </button>
-              
               <p className="text-lg text-gray-400  mt-1">{item.title}</p>
               <p className="mt-3">
                 <span className="text-lg font-semibold">{item.amount}</span>

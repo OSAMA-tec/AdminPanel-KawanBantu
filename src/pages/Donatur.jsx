@@ -5,7 +5,7 @@ import { FaHandHoldingUsd } from 'react-icons/fa';
 import { employeesData, employeesGrid } from '../data/dummy';
 
 import { Header } from '../components';
-const Orders = () => {
+const Donatur = () => {
   const toolbarOptions = ['Search'];
 
   const editing = { allowDeleting: true, allowEditing: true };
@@ -56,4 +56,4 @@ const Orders = () => {
     </div>
   );
 };
-export default Orders;
+export default Donatur;
